@@ -1,3 +1,5 @@
 public class SkillDemo{
-//Send this to VsCode
+    public static int add(int m, int n){
+        return m+n;
+    }
 }
